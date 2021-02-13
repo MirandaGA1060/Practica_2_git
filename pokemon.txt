@@ -6,3 +6,4 @@ Venusaur
 Charizard
 Oddish
 Abra
+Articuno
