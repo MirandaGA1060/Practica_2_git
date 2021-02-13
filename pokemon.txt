@@ -2,3 +2,4 @@ Totodile
 Blaziken
 Blastoise
 Wobbuffet
+Venusaur
