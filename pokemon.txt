@@ -2,3 +2,5 @@ Totodile
 Blaziken
 Blastoise
 Wobbuffet
+Venusaur
+Charizard
