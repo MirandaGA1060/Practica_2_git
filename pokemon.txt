@@ -5,3 +5,4 @@ Wobbuffet
 Venusaur
 Charizard
 Oddish
+Abra
