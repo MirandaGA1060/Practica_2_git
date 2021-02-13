@@ -4,3 +4,4 @@ Blastoise
 Wobbuffet
 Venusaur
 Charizard
+Oddish
